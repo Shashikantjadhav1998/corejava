@@ -19,6 +19,7 @@ public static void main(String[] args) {
 	else {
 		System.out.println("cant voiting......");
 	}
+System.out.println("application end");
 }
 }
 }
